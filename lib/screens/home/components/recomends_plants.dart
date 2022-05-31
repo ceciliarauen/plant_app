@@ -31,8 +31,8 @@ class RecomendsPlants extends StatelessWidget {
           RecomendPlantCard(
             image: "assets/images/image_2.png",
             title: "Angelica",
-            country: "Russia",
-            price: 440,
+            country: "Germany",
+            price: 856,
             press: () {
               Navigator.push(
                 context,
@@ -45,7 +45,7 @@ class RecomendsPlants extends StatelessWidget {
           RecomendPlantCard(
             image: "assets/images/image_3.png",
             title: "Desdemona",
-            country: "Russia",
+            country: "England",
             price: 440,
             press: () {
               Navigator.push(

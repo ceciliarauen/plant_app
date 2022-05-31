@@ -16,7 +16,7 @@ class ImageAndIcons extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.only(bottom: kDefaultPadding * 1),
       child: SizedBox(
-        height: size.height * 0.8,
+        height: size.height * 0.78,
         child: Row(
           children: [
             Expanded(
